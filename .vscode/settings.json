@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "test.automaticallyOpenPeekView": "failureInVisibleDocument",
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.git": true
+  }
+}
